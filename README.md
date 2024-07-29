@@ -1,0 +1,1 @@
+# js-diminutivo-aumentativo-normal-de-nome
